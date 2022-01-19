@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Report a safety issue">30e6e0641bf88110af618623604bcb7a</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:37:02</sys_created_on>
+        <sys_id>8de6e0a41bf88110af618623604bcb71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report a safety issue</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sc_cat_item_category_8de6e0a41bf88110af618623604bcb71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:37:02</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">eb5780951b333010af618623604bcbf6</application>
+        <file_path/>
+        <instance_id>8a09b0e4db4ba0105749cac50596195b</instance_id>
+        <instance_name>dev106993</instance_name>
+        <name>sc_cat_item_category_8de6e0a41bf88110af618623604bcb71</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Report a safety issue">30e6e0641bf88110af618623604bcb7a</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-29 18:37:02</sys_created_on><sys_id>8de6e0a41bf88110af618623604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Report a safety issue</sys_name><sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package><sys_policy/><sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope><sys_update_name>sc_cat_item_category_8de6e0a41bf88110af618623604bcb71</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-29 18:37:02</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-550589659</payload_hash>
+        <record_name>Can We Help You?.Report a safety issue</record_name>
+        <reverted_from/>
+        <source>1452dbb51bc00110af618623604bcb54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:37:02</sys_created_on>
+        <sys_id>09e6e0a41bf88110af618623604bcb75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e077b36c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:37:02</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>8de6e0a484f881108a922c4cc3fbf374</update_guid>
+        <update_guid_history>8de6e0a484f881108a922c4cc3fbf374:-550589659</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Report a safety issue">36bae8a81bf88110af618623604bcb92</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:53:49</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>d0c036c4b8854b59a23d8d2f74344479</sys_id>
+        <sys_metadata>8de6e0a41bf88110af618623604bcb71</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report a safety issue</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_scope_delete display_value="">7fa6ec1cbf344548b81d4c88c1fbf991</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_8de6e0a41bf88110af618623604bcb71</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_8de6e0a41bf88110af618623604bcb71">09e6e0a41bf88110af618623604bcb75</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:53:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

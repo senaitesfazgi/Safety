@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>opened_by</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-12 07:24:00</sys_created_on>
+        <sys_data_policy display_value="Sets the Opened by field to mandatory">371a00591b333010af618623604bcbfc</sys_data_policy>
+        <sys_id>bb1a00591b333010af618623604bcbff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sys_data_policy_rule_bb1a00591b333010af618623604bcbff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-12 07:24:00</sys_updated_on>
+        <table>x_723649_safety_issue</table>
+    </sys_data_policy_rule>
+</record_update>

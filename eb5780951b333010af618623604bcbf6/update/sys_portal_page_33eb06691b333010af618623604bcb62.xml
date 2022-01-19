@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2022-01-19 15:15:54">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-13 11:29:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>33eb06691b333010af618623604bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Safety department - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sys_portal_page_33eb06691b333010af618623604bcb62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-13 11:29:39</sys_updated_on>
+        <title>PA Safety department - New Tab</title>
+        <user/>
+        <view>pa_safety_department_-_new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safety department - New Tab">33eb06691b333010af618623604bcb62</page>
+                <summary>Active critical issues</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-11-13 11:29:49</sys_created_on>
+                <sys_id>26fb82291b333010af618623604bcbc5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>26fb82291b333010af618623604bcbc8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>2afb82291b333010af618623604bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>Active critical issues</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>2efb82291b333010af618623604bcbc5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>a9ba06291b333010af618623604bcb70</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>2efb82291b333010af618623604bcbc6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>66fb82291b333010af618623604bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>6afb82291b333010af618623604bcbc6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>a2fb82291b333010af618623604bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-11-13 03:29:49">26fb82291b333010af618623604bcbc5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:29:50</sys_created_on>
+                        <sys_id>eefb82291b333010af618623604bcbc6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:29:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safety department - New Tab">33eb06691b333010af618623604bcb62</page>
+                <summary>Active safety issues by category</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-11-13 11:30:12</sys_created_on>
+                <sys_id>881c46691b333010af618623604bcb29</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-11-13 11:30:12</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-11-13 03:30:12">881c46691b333010af618623604bcb29</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:30:12</sys_created_on>
+                        <sys_id>041c46691b333010af618623604bcb2a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:30:12</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-11-13 03:30:12">881c46691b333010af618623604bcb29</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:30:12</sys_created_on>
+                        <sys_id>0c1c46691b333010af618623604bcb29</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:30:12</sys_updated_on>
+                        <value>05e90ae51b333010af618623604bcb3f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-11-13 03:30:12">881c46691b333010af618623604bcb29</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:30:12</sys_created_on>
+                        <sys_id>401c46691b333010af618623604bcb2a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:30:12</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-11-13 03:30:12">881c46691b333010af618623604bcb29</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:30:12</sys_created_on>
+                        <sys_id>4c1c46691b333010af618623604bcb2a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:30:12</sys_updated_on>
+                        <value>Active safety issues by category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-11-13 03:30:12">881c46691b333010af618623604bcb29</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:30:12</sys_created_on>
+                        <sys_id>881c46691b333010af618623604bcb2a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:30:12</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-11-13 03:30:12">881c46691b333010af618623604bcb29</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-11-13 11:30:12</sys_created_on>
+                        <sys_id>c41c46691b333010af618623604bcb2a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-11-13 11:30:12</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

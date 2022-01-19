@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>sp?id=sc_home&amp;gtd_portal_title=Service Portal &amp;gtd_page_title=Catalog Home</context>
+        <description/>
+        <has_concl>true</has_concl>
+        <has_intro>true</has_intro>
+        <name>Report a safety issue</name>
+        <options>{"isMapped":true,"actualContext":"sc_home"}</options>
+        <roles/>
+        <sp_page display_value="sc_landing">53261e3487100300e0ef0cf888cb0b7c</sp_page>
+        <sp_portal display_value="Service Portal ">81b75d3147032100ba13a5554ee4902b</sp_portal>
+        <status>published</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:14:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1aa160201bf88110af618623604bcb81</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Report a safety issue</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_1aa160201bf88110af618623604bcb81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:49:33</sys_updated_on>
+        <tour_id>TOUR0000007</tour_id>
+        <type>service_portal</type>
+    </sys_embedded_tour_guide>
+</record_update>

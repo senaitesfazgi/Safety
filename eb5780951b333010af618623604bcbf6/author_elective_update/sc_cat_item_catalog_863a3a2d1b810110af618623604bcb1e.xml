@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Data Requests">e4a9bee91b810110af618623604bcb88</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:10:21</sys_created_on>
+        <sys_id>863a3a2d1b810110af618623604bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Data Requests</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_863a3a2d1b810110af618623604bcb1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:10:21</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">eb5780951b333010af618623604bcbf6</application>
+        <file_path/>
+        <instance_id>8a09b0e4db4ba0105749cac50596195b</instance_id>
+        <instance_name>dev106993</instance_name>
+        <name>sc_cat_item_catalog_863a3a2d1b810110af618623604bcb1e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Data Requests">e4a9bee91b810110af618623604bcb88</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-14 18:10:21</sys_created_on><sys_id>863a3a2d1b810110af618623604bcb1e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Data Requests</sys_name><sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package><sys_policy/><sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope><sys_update_name>sc_cat_item_catalog_863a3a2d1b810110af618623604bcb1e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-14 18:10:21</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1028030237</payload_hash>
+        <record_name>Service Catalog.Data Requests</record_name>
+        <reverted_from/>
+        <source>1452dbb51bc00110af618623604bcb54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:10:21</sys_created_on>
+        <sys_id>4a3a3a2d1b810110af618623604bcb21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e59c8891c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:10:21</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>823a3a2dba8101101648b4444ce3c321</update_guid>
+        <update_guid_history>823a3a2dba8101101648b4444ce3c321:-1028030237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Data Requests">c45b3a6d1b810110af618623604bcbf8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:15:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>57a02333e469495aae1e3d1cabd28604</sys_id>
+        <sys_metadata>863a3a2d1b810110af618623604bcb1e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Data Requests</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_parent display_value="">e4a9bee91b810110af618623604bcb88</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_scope_delete display_value="">7fa6ec1cbf344548b81d4c88c1fbf991</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_863a3a2d1b810110af618623604bcb1e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_863a3a2d1b810110af618623604bcb1e">4a3a3a2d1b810110af618623604bcb21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:15:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

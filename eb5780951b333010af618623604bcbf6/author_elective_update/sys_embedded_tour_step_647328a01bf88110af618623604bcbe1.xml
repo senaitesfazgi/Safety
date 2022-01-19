@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="DELETE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="xpath">2c7328a01bf88110af618623604bcbdf</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Click this card to report a safety issue]]></content>
+        <guide display_value="Report a safety issue">1aa160201bf88110af618623604bcb81</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"url":"/sp?id=sc_category&amp;sys_id=e15706fc0a0a0aa7007fc21e1ab70c2f&amp;catalog_id=-1&amp;spa=1"}</options>
+        <order>3</order>
+        <placement>bottom</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:21:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>647328a01bf88110af618623604bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_647328a01bf88110af618623604bcbe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:21:59</sys_updated_on>
+        <target/>
+        <target_ref display_value="xpath">2c7328a01bf88110af618623604bcbdf</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>sp</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="DELETE" query="documentkey=647328a01bf88110af618623604bcbe1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">eb5780951b333010af618623604bcbf6</application>
+        <file_path/>
+        <instance_id>8a09b0e4db4ba0105749cac50596195b</instance_id>
+        <instance_name>dev106993</instance_name>
+        <name>sys_embedded_tour_step_647328a01bf88110af618623604bcbe1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;true&lt;/action&gt;&lt;action_event&gt;click&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="xpath"&gt;2c7328a01bf88110af618623604bcbdf&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[Click this card to report a safety issue]]&gt;&lt;/content&gt;&lt;guide display_value="Report a safety issue"&gt;1aa160201bf88110af618623604bcb81&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"url":"/sp?id=sc_category&amp;amp;sys_id=e15706fc0a0a0aa7007fc21e1ab70c2f&amp;amp;catalog_id=-1&amp;amp;spa=1"}&lt;/options&gt;&lt;order&gt;3&lt;/order&gt;&lt;placement&gt;bottom&lt;/placement&gt;&lt;skippable&gt;false&lt;/skippable&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-12-29 18:21:59&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;647328a01bf88110af618623604bcbe1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Safety" source="x_723649_safety"&gt;eb5780951b333010af618623604bcbf6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Safety"&gt;eb5780951b333010af618623604bcbf6&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_647328a01bf88110af618623604bcbe1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-12-29 18:21:59&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="xpath"&gt;2c7328a01bf88110af618623604bcbdf&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;sp&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=647328a01bf88110af618623604bcbe1"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1899494034</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1452dbb51bc00110af618623604bcb54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:21:59</sys_created_on>
+        <sys_id>6c7328a01bf88110af618623604bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e076d6e540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:21:59</sys_updated_on>
+        <type>Guided Tour Step</type>
+        <update_guid>a47328a059f88110c7b8e886f0a099e2</update_guid>
+        <update_guid_history>a47328a059f88110c7b8e886f0a099e2:1899494034</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:45:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_step">sys_embedded_tour_step</sys_db_object>
+        <sys_id>07d89f51fc1c4bba8220c1fe3e631e61</sys_id>
+        <sys_metadata>647328a01bf88110af618623604bcbe1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_scope_delete display_value="">7fa6ec1cbf344548b81d4c88c1fbf991</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_step_647328a01bf88110af618623604bcbe1</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_step_647328a01bf88110af618623604bcbe1">6c7328a01bf88110af618623604bcbe2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:45:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

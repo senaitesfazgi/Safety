@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element">
+    <sys_embedded_tour_element action="DELETE">
+        <cell_edit/>
+        <cell_types/>
+        <col/>
+        <cxs_results/>
+        <element_type>GENERIC_CLICKABLE</element_type>
+        <field/>
+        <field_action/>
+        <field_header/>
+        <filters/>
+        <form_buttons>additional_actions</form_buttons>
+        <form_element>field</form_element>
+        <form_section/>
+        <frameset>nav_filter</frameset>
+        <list_element>ui_action</list_element>
+        <list_header/>
+        <manual_css>#sc_cat_item_8c8890201bb88110af618623604bcbeb</manual_css>
+        <name>xpath</name>
+        <record_id/>
+        <related_field/>
+        <related_links/>
+        <related_list_element>ui_action</related_list_element>
+        <related_lists/>
+        <related_table/>
+        <row/>
+        <sys_class_name>sys_embedded_tour_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:21:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c7328a01bf88110af618623604bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>xpath</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sys_embedded_tour_element_2c7328a01bf88110af618623604bcbdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:21:59</sys_updated_on>
+        <table/>
+        <type>manual_css</type>
+        <ui_action/>
+    </sys_embedded_tour_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">eb5780951b333010af618623604bcbf6</application>
+        <file_path/>
+        <instance_id>8a09b0e4db4ba0105749cac50596195b</instance_id>
+        <instance_name>dev106993</instance_name>
+        <name>sys_embedded_tour_element_2c7328a01bf88110af618623604bcbdf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>GENERIC_CLICKABLE</element_type><field/><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css>#sc_cat_item_8c8890201bb88110af618623604bcbeb</manual_css><name>xpath</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-29 18:21:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2c7328a01bf88110af618623604bcbdf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>xpath</sys_name><sys_overrides/><sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package><sys_policy/><sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope><sys_update_name>sys_embedded_tour_element_2c7328a01bf88110af618623604bcbdf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-29 18:21:59</sys_updated_on><table/><type>manual_css</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
+        <payload_hash>804956774</payload_hash>
+        <record_name>xpath</record_name>
+        <reverted_from/>
+        <source>1452dbb51bc00110af618623604bcb54</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:21:59</sys_created_on>
+        <sys_id>207328a01bf88110af618623604bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e076d6e330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:21:59</sys_updated_on>
+        <type>Guided Tour Element</type>
+        <update_guid>687328a052f8811046653ed01b7c4ee0</update_guid>
+        <update_guid_history>687328a052f8811046653ed01b7c4ee0:804956774</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 18:45:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_element">sys_embedded_tour_element</sys_db_object>
+        <sys_id>0173492737c5477faa0c121ad980cf01</sys_id>
+        <sys_metadata>2c7328a01bf88110af618623604bcbdf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>xpath</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_scope_delete display_value="">7fa6ec1cbf344548b81d4c88c1fbf991</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_element_2c7328a01bf88110af618623604bcbdf</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_element_2c7328a01bf88110af618623604bcbdf">207328a01bf88110af618623604bcbe1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 18:45:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

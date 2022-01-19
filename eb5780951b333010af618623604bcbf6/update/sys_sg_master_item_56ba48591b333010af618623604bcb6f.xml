@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_723649_safety_issue</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="issue Form Screen">9aba48591b333010af618623604bcb53</embedded_screen>
+        <item_view/>
+        <name>issue master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-12 07:26:38</sys_created_on>
+        <sys_id>56ba48591b333010af618623604bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>issue master_item</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>sys_sg_master_item_56ba48591b333010af618623604bcb6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-12 07:26:38</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="issue List Screen View Config">1aba40591b333010af618623604bcbe5</view_config>
+    </sys_sg_master_item>
+</record_update>

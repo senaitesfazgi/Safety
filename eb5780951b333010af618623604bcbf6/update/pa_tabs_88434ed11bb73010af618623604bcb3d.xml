@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Safety department - New Tab">c0434ed11bb73010af618623604bcb3b</canvas_page>
+        <name>Safety department - New Tab</name>
+        <page display_value="PA Safety department - New Tab">4c434ed11bb73010af618623604bcb39</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-12 16:13:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>88434ed11bb73010af618623604bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety department - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_update_name>pa_tabs_88434ed11bb73010af618623604bcb3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-12 16:13:13</sys_updated_on>
+    </pa_tabs>
+</record_update>

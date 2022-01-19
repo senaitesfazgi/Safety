@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-12 07:24:02</sys_created_on>
+        <sys_id>982a40591b333010af618623604bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_723649_safety_issue.x_723649_safety.admin</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_security_acl display_value="x_723649_safety_issue">502a40591b333010af618623604bcbca</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_982a40591b333010af618623604bcbcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-12 07:24:02</sys_updated_on>
+        <sys_user_role display_value="x_723649_safety.admin" name="x_723649_safety.admin">158740d51b333010af618623604bcbe4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">eb5780951b333010af618623604bcbf6</application>
+        <file_path/>
+        <instance_id>8a09b0e4db4ba0105749cac50596195b</instance_id>
+        <instance_name>dev106993</instance_name>
+        <name>sys_security_acl_role_982a40591b333010af618623604bcbcc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-12 07:24:02</sys_created_on><sys_id>982a40591b333010af618623604bcbcc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_723649_safety_issue.x_723649_safety.admin</sys_name><sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package><sys_policy/><sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope><sys_security_acl display_value="x_723649_safety_issue">502a40591b333010af618623604bcbca</sys_security_acl><sys_update_name>sys_security_acl_role_982a40591b333010af618623604bcbcc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-12 07:24:02</sys_updated_on><sys_user_role display_value="x_723649_safety.admin" name="x_723649_safety.admin">158740d51b333010af618623604bcbe4</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-399825211</payload_hash>
+        <record_name>x_723649_safety_issue.x_723649_safety.admin</record_name>
+        <reverted_from/>
+        <source>af5700d51b333010af618623604bcb6d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-12 07:24:02</sys_created_on>
+        <sys_id>142a40591b333010af618623604bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d13082c050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-12 07:24:02</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5c2a40598b3330108ad87dcc114d8cce</update_guid>
+        <update_guid_history>5c2a40598b3330108ad87dcc114d8cce:-399825211</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_723649_safety_issue.x_723649_safety.admin">ede96c8b1bc50110af618623604bcb4d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 23:30:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>c15a5fea94634668959561ba4f9e2604</sys_id>
+        <sys_metadata>982a40591b333010af618623604bcbcc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_723649_safety_issue.x_723649_safety.admin</sys_name>
+        <sys_package display_value="Safety" source="x_723649_safety">eb5780951b333010af618623604bcbf6</sys_package>
+        <sys_parent display_value="x_723649_safety_issue">502a40591b333010af618623604bcbca</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety">eb5780951b333010af618623604bcbf6</sys_scope>
+        <sys_scope_delete display_value="">7fa6ec1cbf344548b81d4c88c1fbf991</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_982a40591b333010af618623604bcbcc</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_982a40591b333010af618623604bcbcc">142a40591b333010af618623604bcbcf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 23:30:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
